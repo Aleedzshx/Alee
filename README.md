@@ -1,6 +1,6 @@
 # 👋 Sup! I'm Alee
 
-🎓 Software Engineering student at Universidad Areandina 2026 
+🎓 Software Engineering student at Universidad Areandina (26 February 2026)
 📍 Ibagué, Tolima – Colombia  
 
 
@@ -22,11 +22,11 @@
 
 ## 📈 My Journey
 
-At 18, I decided to pursue Software Engineering with an international vision. I was admitted to Universidad Areandina in September 2025, completed my first tuition payment in 2025, and will officially begin my studies in February 03 2026. In the meantime, I’ve been building my foundation through online courses, certifications, and bilingual documentation.
+At 18, I decided to pursue Software Engineering with an international vision. I was admitted to Universidad Areandina in September 2025, completed my first tuition payment in October 2025, and will officially begin my studies on February 03, 2026. In the meantime, I’ve been building my foundation through online courses, certifications, and bilingual documentation.
 
-- 🧠 Completing B1-level English courses at Federica Web Learning (B1.1, B1.2 and BUSSINES) 
-- 🛡️ Studying cybersecurity via Google’s Coursera program (Foundations of Cybersecurity)  
-- 📖 Learning CYBERSECURITY and secure coding via SENA  
+- 🧠 Completing B1-level English courses at Federica Web Learning (B1.1, B1.2 and BUSINESS) 
+- 🛡️ Studying Cybersecurity via Google’s Coursera program (Foundations of Cybersecurity)  
+- 📖 Learning Cybersecurity and secure coding via SENA  
 
 
 
