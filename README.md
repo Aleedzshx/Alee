@@ -1,6 +1,9 @@
 # 👋 Sup! I'm Alee
 
+⭐ 
+
 🎓 Software Engineering student at Universidad Areandina (26 February 2026)
+
 📍 Ibagué, Tolima – Colombia  
 
 
