@@ -1,10 +1,11 @@
 # 👋 Sup! I'm Alee
 
-⭐  Early Training in Systems Technologies
 
 🎓 Software Engineering student at Universidad Areandina (26 February 2026)
 
-📍 Ibagué, Tolima – Colombia  
+⭐  Early Training in Systems Technologies
+
+📍 Bogota, D.C – Colombia  
 
 
 ## 🧠 Skills & Learning Journey
@@ -29,7 +30,7 @@ At 18, I decided to pursue Software Engineering with an international vision. I 
 
 - 🧠 Completing B1-level English courses at Federica Web Learning (B1.1, B1.2 and BUSINESS) 
 - 🛡️ Studying Cybersecurity via Google’s Coursera program (Foundations of Cybersecurity)  
-- 📖 Learning Cybersecurity and secure coding via SENA  
+- 📖 Learning Cybersecurity   
 
 
 
