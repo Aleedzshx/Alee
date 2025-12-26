@@ -1,11 +1,11 @@
-# 👋 Sup! I'm Alee
+# 👋 Sup! I'm Alee !
 
 
 🎓 Software Engineering student at Universidad Areandina (26 February 2026)
 
-⭐  Early Training in Systems Technologies
+⭐  Early Training in Systems Technologies PROM 2023
 
-📍 Bogota, D.C – Colombia  
+📍 Bogota, D.C – Colombia  -  Ibague, Tolima - Colombia
 
 
 ## 🧠 Skills & Learning Journey
@@ -16,15 +16,14 @@
 - **Visual Code**
 - **Visual Code Community**
 - **Currently focused on**:  
-  - Strengthening Python and exploring Flask  
-  - Practicing Python, Java, HTML, CSS  
-  - Studying cybersecurity fundamentals and secure coding  
-  - Documenting projects 
-  - **Kali Linux**
+  - Strengthening Python 
+  - Practicing Python, Java, HTML, CSS, JavaScript  
+  - Studying cybersecurity 
+  - **Kali Linux & Mint Linux**
 
 ---
 
-## 📈 My Journey
+## 📈 My Journey !!
 
 At 18, I decided to pursue Software Engineering with an international vision. I was admitted to Universidad Areandina in September 2025, completed my first tuition payment in October 2025, and will officially begin my studies on February 23, 2026. In the meantime, I’ve been building my foundation through online courses, certifications, and bilingual documentation.
 
