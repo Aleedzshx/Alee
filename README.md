@@ -14,11 +14,10 @@
 - **CapCut**: Educational video editing  
 - **PyCharm**: Main development environment
 - **Visual Code**
-- **Visual Code Community**
 - **Currently focused on**:  
   - Strengthening Python 
-  - Practicing Python, Java, HTML, CSS, JavaScript  
-  - Studying cybersecurity 
+  - Practicing Python, HTML, CSS, JavaScript  
+  - Cybersecurity 
   - **Kali Linux & Mint Linux**
 
 ---
@@ -29,10 +28,8 @@ At 18, I decided to pursue Software Engineering with an international vision. I 
 
 - 🧠 Completing B1-level English courses at Federica Web Learning (B1.1, B1.2 and BUSINESS) 
 - 🛡️ Studying Cybersecurity via Google’s Coursera program (Foundations of Cybersecurity)  
-- 📖 Learning Cybersecurity   
 
-
-
+  
 ---
 
 
