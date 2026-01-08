@@ -1,9 +1,9 @@
 # 👋 Sup! I'm Alee !
 
 
-🎓 Software Engineering student at Universidad Areandina (26 February 2026)
+🎓 Software Engineering student at Universidad Area Andina (23 February 2026)
 
-⭐  Early Training in Systems Technologies PROM 2023
+⭐  Early Training in Systems Technologies (PROM 2023)
 
 📍 Bogota, D.C – Colombia  -  Ibague, Tolima - Colombia
 
