@@ -8,17 +8,27 @@
 📍 Bogota, D.C – Colombia  -  Ibague, Tolima - Colombia
 
 
-## 🧠 Skills & Learning Journey
+## 🧠 Skills & More...
 
 - **Python**: Area calculators, Madlibs, command-line experiments, Invoice Generator PDF, more.... 
 - **CapCut**: Educational video editing  
-- **PyCharm**: Main development environment
-- **Visual Code**
+- 
+
 - **Currently focused on**:  
   - Strengthening Python 
   - Practicing Python, HTML, CSS, JavaScript  
   - Cybersecurity 
-  - **Kali Linux & Mint Linux**
+  - **Kali Linux**
+
+## IDE 
+
+- **Visual Code** : Main development environment
+  **PyCharm**
+  
+
+## OS
+
+**Mint Linux**
 
 ---
 
@@ -26,9 +36,8 @@
 
 At 18, I decided to pursue Software Engineering with an international vision. I was admitted to Universidad Areandina in September 2025, completed my first tuition payment in October 2025, and will officially begin my studies on February 23, 2026. In the meantime, I’ve been building my foundation through online courses, certifications, and bilingual documentation.
 
-- 🧠 Completing B1-level English courses at Federica Web Learning (B1.1, B1.2 and BUSINESS) 
-- 🛡️ Studying Cybersecurity via Google’s Coursera program (Foundations of Cybersecurity)  
-
+- 🧠 Completing B1-level English courses at Federica Web Learning ( B1.2 and BUSINESS) 
+- 🛡️ Studying Cybersecurity 
   
 ---
 
