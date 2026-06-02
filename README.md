@@ -1,11 +1,11 @@
-# 👋 Sup! I'm Alee !
+# 👋 Suup! I'm Alee !
 
 
-🎓 Software Engineering student at Universidad Area Andina (23 February 2026)
+🎓 Software Engineering student at Universidad Area Andina
 
 ⭐  Early Training in Systems Technologies (PROM 2023)
 
-📍 Bogota, D.C – Colombia  -  Ibague, Tolima - Colombia
+📍 Ibague, Tolima - Colombia
 
 
 ## 🧠 Skills & More...
@@ -29,6 +29,7 @@
 ## OS
 
 **Mint Linux**
+**Windows 11**
 
 ---
 
