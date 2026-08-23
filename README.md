@@ -22,13 +22,13 @@
 
 ## IDE 
 
-- **Visual Code** : Main development environment
-  **PyCharm**
+- **Zen Editor Code** : Main development environment
+  **Cursor**
   
 
 ## OS
 
-**Mint Linux**
+**Mac OS**
 **Windows 11**
 
 ---
@@ -37,7 +37,7 @@
 
 At 18, I decided to pursue Software Engineering with an international vision. I was admitted to Universidad Areandina in September 2025, completed my first tuition payment in October 2025, and will officially begin my studies on February 23, 2026. In the meantime, I’ve been building my foundation through online courses, certifications, and bilingual documentation.
 
-- 🧠 Completing B1-level English courses at Federica Web Learning ( B1.2 and BUSINESS) 
+- 🧠 Completing B1-level English courses at Federica Web Learning 
 - 🛡️ Studying Cybersecurity 
   
 ---
