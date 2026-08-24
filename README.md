@@ -3,28 +3,39 @@
 
 🎓 Software Engineering student at Universidad Area Andina
 
-⭐  Early Training in Systems Technologies (PROM 2023)
+**Early Training in Systems Technologies (PROM 2023)**
 
 📍 Ibague, Tolima - Colombia
 
 
-## 🧠 Skills & More...
+##Skills & More...
 
-- **Python**: Area calculators, Madlibs, command-line experiments, Invoice Generator PDF, more.... 
-- **CapCut**: Educational video editing  
-- 
+- **Python**: Area Calculators,Ejercicios de Programación con Python, Command-Line (Bash) , experiments, Invoice Generator PDF, more....
+  
+- **CapCut**: Basic Knowledge 
+
+---
+
 
 - **Currently focused on**:  
   - Strengthening Python 
-  - Practicing Python, HTML, CSS, JavaScript  
-  - Cybersecurity 
+  - Practicing Python Exercises
+    
+  - Cybersecurity :
   - **Kali Linux**
+    
+
+  ---
+
 
 ## IDE 
 
-- **Zen Editor Code** : Main development environment
-  **Cursor**
+**Cursor**
+**Zen Editor Code** : Main development environment
+**Visual Studio Code** 
   
+---
+
 
 ## OS
 
@@ -53,7 +64,7 @@ At 18, I decided to pursue Software Engineering with an international vision. I 
 
 ---
 
-> “If I could do it, so can you.”
+> “i want to cook so bad.”
 
 
 Thanks for visiting my profile! I'm documenting my journey as a developer and sharing tools that make education more accessible and strategic.
