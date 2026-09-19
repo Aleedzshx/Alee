@@ -30,17 +30,17 @@
 
 ## IDE 
 
-**Cursor**
-**Zen Editor Code** : Main development environment
-**Visual Studio Code** 
+**Cursor** -
+**Zen Editor Code** : Main development environment -
+**Visual Studio Code** -
   
 ---
 
 
 ## OS
 
-**Mac OS**
-**Windows 11**
+**Linux Mint** -
+**Windows 11** -
 
 ---
 
