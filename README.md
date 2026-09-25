@@ -8,7 +8,7 @@
 📍 Ibague, Tolima - Colombia
 
 
-##Skills & More...
+##Skills & More...##
 
 - **Python**: Area Calculators,Ejercicios de Programación con Python, Command-Line (Bash) , experiments, Invoice Generator PDF, more....
   
