@@ -64,7 +64,7 @@ At 18, I decided to pursue Software Engineering with an international vision. I 
 
 ---
 
-> “i want to cook so bad.”
+> “i wanna cook(code) so bad.”
 
 
 Thanks for visiting my profile! I'm documenting my journey as a developer and sharing tools that make education more accessible and strategic.
