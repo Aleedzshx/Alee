@@ -1,6 +1,6 @@
 # 👋 Suup! I'm Alee !
 
-
+📚 Software Analysis and Development (ADSO) at the SENA
 🎓 Software Engineering student at Universidad Area Andina
 
 **Early Training in Systems Technologies (PROM 2023)**
@@ -10,7 +10,7 @@
 
 ##Skills & More...##
 
-- **Python**: Area Calculators,Ejercicios de Programación con Python, Command-Line (Bash) , experiments, Invoice Generator PDF, more....
+- **Python**: Ejercicios de Programación con Python, Command-Line (GitBash) , experiments, more....
   
 - **CapCut**: Basic Knowledge 
 
@@ -40,13 +40,17 @@
 ## OS
 
 **Linux Mint** -
-**Windows 11** -
+**Windows 11** 
 
 ---
 
 ## 📈 My Journey !!
 
 At 18, I decided to pursue Software Engineering with an international vision. I was admitted to Universidad Areandina in September 2025, completed my first tuition payment in October 2025, and will officially begin my studies on February 23, 2026. In the meantime, I’ve been building my foundation through online courses, certifications, and bilingual documentation.
+
+Also this year I start a new program called Software Analysis and Development (ADSO) at the SENA. For the moment it's an interesting program to improve my skills and my social activities. I am ver happy for real.
+
+---
 
 - 🧠 Completing B1-level English courses at Federica Web Learning 
 - 🛡️ Studying Cybersecurity 
