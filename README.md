@@ -20,12 +20,8 @@
 - **Currently focused on**:  
   - Strengthening Python 
   - Practicing Python Exercises
-    
-  - Cybersecurity :
-  - **Kali Linux**
-    
 
-  ---
+---
 
 
 ## IDE 
