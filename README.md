@@ -9,7 +9,7 @@
 📍 Ibague, Tolima - Colombia
 
 
-##Skills & More...##
+**Skills & More...**
 
 - **Python**: Ejercicios de Programación con Python, Command-Line (GitBash) , experiments, more....
   
