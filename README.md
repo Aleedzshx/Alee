@@ -1,6 +1,7 @@
 # 👋 Suup! I'm Alee !
 
 📚 Software Analysis and Development (ADSO) at the SENA
+
 🎓 Software Engineering student at Universidad Area Andina
 
 **Early Training in Systems Technologies (PROM 2023)**
